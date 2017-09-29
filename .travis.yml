@@ -15,3 +15,5 @@ before_install:
 script:
     - cd refresh-layout
     - ../gradlew assembleRelease
+
+
